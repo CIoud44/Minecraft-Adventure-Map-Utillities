@@ -1,0 +1,10 @@
+execute if score @s pt_reverb matches 1 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb1
+execute if score @s pt_reverb matches 2 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb2
+execute if score @s pt_reverb matches 3 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb3
+execute if score @s pt_reverb matches 4 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb4
+execute if score @s pt_reverb matches 5 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb5
+execute if score @s pt_reverb matches 6 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb6
+execute if score @s pt_reverb matches 7 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb7
+execute if score @s pt_reverb matches 8 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb8
+execute if score @s pt_reverb matches 9 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb9
+execute if score @s pt_reverb matches 10 at @s run stopsound @s voice potion:young_link_jump_gasp_reverb10
