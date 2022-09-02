@@ -1,0 +1,19 @@
+scoreboard objectives remove pt_position_x
+scoreboard objectives remove pt_position_y
+scoreboard objectives remove pt_position_z
+scoreboard objectives remove pt_prev_pt_position_x
+scoreboard objectives remove pt_prev_pt_position_y
+scoreboard objectives remove pt_prev_pt_position_z
+scoreboard objectives remove pt_velocity_x
+scoreboard objectives remove pt_velocity_y
+scoreboard objectives remove pt_velocity_z
+
+scoreboard objectives add pt_position_x dummy
+scoreboard objectives add pt_position_y dummy
+scoreboard objectives add pt_position_z dummy
+scoreboard objectives add pt_prev_pt_position_x dummy
+scoreboard objectives add pt_prev_pt_position_y dummy
+scoreboard objectives add pt_prev_pt_position_z dummy
+scoreboard objectives add pt_velocity_x dummy
+scoreboard objectives add pt_velocity_y dummy
+scoreboard objectives add pt_velocity_z dummy
