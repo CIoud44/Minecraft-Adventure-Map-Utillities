@@ -7,6 +7,7 @@ scoreboard players set 1 pt_NUMBERS 1
 scoreboard players set 10 pt_NUMBERS 10
 scoreboard players set 60 pt_NUMBERS 60
 scoreboard players set 100 pt_NUMBERS 100
+scoreboard players set 360 pt_NUMBERS 360
 scoreboard players set 1000 pt_NUMBERS 1000
 scoreboard players set 10000 pt_NUMBERS 10000
 scoreboard players set 100000 pt_NUMBERS 100000
