@@ -1,5 +1,9 @@
 {
     "values": [
-        "game_tick_delta_time:tick"
+        "game_tick_delta_time:tick",
+        "ground_distance:tick",
+        "velocity:tick",
+        "sounds_and_songs:tick",
+        "zelda_deep_fall_sounds:tick"
     ]
 }

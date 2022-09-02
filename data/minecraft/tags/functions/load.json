@@ -1,6 +1,10 @@
 {
     "values": [
         "numbers:load",
-        "game_tick_delta_time:load"
+        "game_tick_delta_time:load",
+        "ground_distance:load",
+        "velocity:load",
+        "sounds_and_songs:load",
+        "zelda_deep_fall_sounds:load"
     ]
 }
