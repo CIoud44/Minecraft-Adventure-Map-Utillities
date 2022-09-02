@@ -1,0 +1,2 @@
+scoreboard objectives add pt_world_border dummy
+scoreboard objectives add pt_game_tick_delta_time dummy

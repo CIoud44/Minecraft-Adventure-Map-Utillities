@@ -1,5 +1,6 @@
 {
     "values": [
-
+        "numbers:load",
+        "game_tick_delta_time:load"
     ]
 }

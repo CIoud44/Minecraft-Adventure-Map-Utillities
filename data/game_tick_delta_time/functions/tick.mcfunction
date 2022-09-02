@@ -1,0 +1,5 @@
+function game_tick_delta_time:calculate_game_tick_world_border_delta_position
+function game_tick_delta_time:calculate_game_tick_delta_time
+
+execute as @a at @s if score seconds pt_game_tick_delta_time > 0 pt_NUMBERS run function game_tick_delta_time:tellraw_time_away
+
