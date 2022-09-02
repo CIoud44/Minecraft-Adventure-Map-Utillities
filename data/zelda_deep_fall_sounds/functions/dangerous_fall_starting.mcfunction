@@ -1,0 +1,1 @@
+function sounds_and_songs:playsound/young_link_jump_gasp_reverb
